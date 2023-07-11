@@ -2,6 +2,10 @@
 用于记录实验室小组会论文分享
 
 ## 往期记录：
+### 20230705
+* EXTRACTOR- Extracting Attack Behavior from Threat Reports
+* MonkeyNet A robust deep convolutional neural network for monkeypox disease detection and classification
+
 ### 20230629
 * RoS Passive Smart Surface for Roadside-to-Vehicle Communication
 * Network planning with deep reinforcement learning
