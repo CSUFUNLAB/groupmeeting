@@ -2,9 +2,16 @@
 用于记录实验室小组会论文分享
 
 ## 往期记录：
+### 20230712
+* Privacy-Aware Offloading in Mobile-Edge Computing
+* Deep Learning for HDD Health Assessment An Application Based on LSTM
+* Accurate Detection of IoT Sensor Behaviors in Legitimate, Faulty and Compromised Scenarios
+* TranAD Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data
+
 ### 20230705
 * EXTRACTOR- Extracting Attack Behavior from Threat Reports
 * MonkeyNet A robust deep convolutional neural network for monkeypox disease detection and classification
+* Classification between live and dead foodborne bacteria with hyperspectral microscope imagery and machine learning
 
 ### 20230629
 * RoS Passive Smart Surface for Roadside-to-Vehicle Communication
