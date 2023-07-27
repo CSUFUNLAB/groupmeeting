@@ -2,6 +2,20 @@
 用于记录实验室小组会论文分享
 
 ## 往期记录：
+
+### 20230726
+* Forecasting SDN End-to-End Latency Using Graph Neural Network
+* DeepScheduler: Enabling Flow-Aware Scheduling in Time-Sensitive Networking
+* Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks
+* Vision Transformers, Ensemble Model, and Transfer Learning Leveraging Explainable AI for Brain Tumor Detection and Classification
+* DeepQueueNet: Towards Scalable and Generalized Network Performance Estimation with Packet-level Visibility
+
+### 20230719
+* Task Scheduling for Probabilistic In-Band Network Telemetry
+* Asynchronous Deep Reinforcement Learning for Data-Driven Task Offloading in MEC-Empowered Vehicular Networks
+* Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks
+* Position-Based Machine Learning Propagation Loss Model Enabling Fast Digital Twins of Wireless Networks in ns-3
+
 ### 20230712
 * Privacy-Aware Offloading in Mobile-Edge Computing
 * Deep Learning for HDD Health Assessment An Application Based on LSTM
