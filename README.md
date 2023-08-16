@@ -3,6 +3,14 @@
 
 ## 往期记录：
 
+### 20230802
+* Learning to Reflect and to Beamform for Intelligent Reflecting Surface With Implicit Channel Estimation
+* AttacKG: Constructing Technique Knowledge Graph from Cyber Threat Intelligence Reports
+* Information Directed Reward Learning for Reinforcement Learning
+* ns3-ai: Fostering Artificial Intelligence Algorithms for Networking Research
+* Unified Structure Generation for Universal Information Extraction
+* RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation
+
 ### 20230726
 * Forecasting SDN End-to-End Latency Using Graph Neural Network
 * DeepScheduler: Enabling Flow-Aware Scheduling in Time-Sensitive Networking
