@@ -3,6 +3,11 @@
 
 ## 往期记录：
 
+### 20230824
+* One Network, Many Masks: Towards More Parameter-Efficient Transfer Learning
+* Flexible Rate-Splitting Multiple Access With Finite Blocklength
+* Automated segmentation of foodborne bacteria from chicken rinse with hyperspectral microscope imaging and deep learning methods
+
 ### 20230802
 * Learning to Reflect and to Beamform for Intelligent Reflecting Surface With Implicit Channel Estimation
 * AttacKG: Constructing Technique Knowledge Graph from Cyber Threat Intelligence Reports
