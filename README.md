@@ -3,6 +3,17 @@
 
 ## 往期记录：
 
+###20230906
+* ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps
+* Multiagent DDPG-Based Deep Learning for Smart Ocean Federated Learning IoT Networks
+* A pipelining task offloading strategy via delay-aware multi-agent reinforcement learning in Cybertwin-enabled 6G network
+* Multiscale Vision Transformers
+
+###20230830
+* Sum-Rate Maximization of Uplink Rate Splitting Multiple Access (RSMA) Communication
+* Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
+* FlashAttention Fast and Memory-Efficient Exact Attention with IO-Awareness
+
 ### 20230824
 * One Network, Many Masks: Towards More Parameter-Efficient Transfer Learning
 * Flexible Rate-Splitting Multiple Access With Finite Blocklength
