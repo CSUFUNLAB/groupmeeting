@@ -3,6 +3,9 @@
 
 ## 往期记录：
 
+###20230913
+* AnomalyGPT- Detecting Industrial Anomalies using Large Vision-Language Models 
+
 ###20230906
 * ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps
 * Multiagent DDPG-Based Deep Learning for Smart Ocean Federated Learning IoT Networks
