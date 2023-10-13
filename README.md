@@ -3,6 +3,19 @@
 
 ## 往期记录：
 
+
+###20231011
+* Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning
+* Multiagent Collaborative Learning for UAV Enabled Wireless Networks
+* Out Of Distribution Representation Learning For Time Seriers Classfication
+* Multiagent Collaborative Learning for UAV Enabled Wireless Networks
+
+###20230921
+* Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds
+* Anomaly Transformer: Time Series Anomaly Detection With Association Discrepancy
+* Causal Attention for Interpretable and Generalizable Graph Classification
+* Training Language Models to Follow Instructions with Human Feedback
+
 ###20230913
 * AnomalyGPT- Detecting Industrial Anomalies using Large Vision-Language Models 
 
