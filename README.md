@@ -6,9 +6,8 @@
 
 ###20231011
 * Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning
-* Multiagent Collaborative Learning for UAV Enabled Wireless Networks
+* Multiagent Collaborative Learning for UAV Enabled Wireless Networks(GZQ & TJ)
 * Out Of Distribution Representation Learning For Time Seriers Classfication
-* Multiagent Collaborative Learning for UAV Enabled Wireless Networks
 
 ###20230921
 * Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds
