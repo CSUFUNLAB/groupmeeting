@@ -4,27 +4,27 @@
 ## 往期记录：
 
 
-###20231011
+### 20231011
 * Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning
 * Multiagent Collaborative Learning for UAV Enabled Wireless Networks(GZQ & TJ)
 * Out Of Distribution Representation Learning For Time Seriers Classfication
 
-###20230921
+### 20230921
 * Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds
 * Anomaly Transformer: Time Series Anomaly Detection With Association Discrepancy
 * Causal Attention for Interpretable and Generalizable Graph Classification
 * Training Language Models to Follow Instructions with Human Feedback
 
-###20230913
+### 20230913
 * AnomalyGPT- Detecting Industrial Anomalies using Large Vision-Language Models 
 
-###20230906
+### 20230906
 * ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps
 * Multiagent DDPG-Based Deep Learning for Smart Ocean Federated Learning IoT Networks
 * A pipelining task offloading strategy via delay-aware multi-agent reinforcement learning in Cybertwin-enabled 6G network
 * Multiscale Vision Transformers
 
-###20230830
+### 20230830
 * Sum-Rate Maximization of Uplink Rate Splitting Multiple Access (RSMA) Communication
 * Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
 * FlashAttention Fast and Memory-Efficient Exact Attention with IO-Awareness
