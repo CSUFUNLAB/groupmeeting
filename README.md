@@ -3,6 +3,17 @@
 
 ## 往期记录：
 
+### 20231025
+* Fine-Grained Trajectory Optimization of Multiple UAVs for Efficient Data Gathering from WSNs
+* Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective
+* Registration based Few-Shot Anomaly Detection
+* Large Language Models Encode Clinical Knowledge
+
+### 20231018
+* Generative Causal Explanations for Graph Neural Networks
+* Digital Twin Driven Service Self-Healing with Graph Neural Networks in 6G Edge Networks
+* Federated Learning Over Coupled Graphs
+* Towards AI-driven On-demand Routing in 6G Wide-Area Networks
 
 ### 20231011
 * Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning
