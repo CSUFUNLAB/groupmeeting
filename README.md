@@ -3,6 +3,19 @@
 
 ## 往期记录：
 
+### 20231109
+* Knowledge Enhanced Graph Neural Networks for Explainable Recommendation
+* SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications
+* Latency Aware Transmission Scheduling for Steerable Free Space Optics
+* CVM-Cervix: A hybrid cervical Pap-smear image classification framework using CNN, visual transformer and multilayer perceptron
+
+### 20231101
+* Achieving Resilient and Performance-Guaranteed Routing in Space-Terrestrial Integrated Networks
+* OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph
+Neural Networks
+* DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
+* Deep Reinforcement Learning for Delay-Oriented IoT Task Scheduling in Space-Air-Ground Integrated Network
+  
 ### 20231025
 * Fine-Grained Trajectory Optimization of Multiple UAVs for Efficient Data Gathering from WSNs
 * Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective
