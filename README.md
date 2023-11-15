@@ -3,6 +3,12 @@
 
 ## 往期记录：
 
+### 20231115
+* Searching the Deployable Convolution Neural Networks for GPUs
+* Causal Inference with Non-IID Data using Linear Graphical Models
+* Reinforced Causal Explainer for Graph Neural Network
+* OmniWindow: A General and Efficient Window Mechanism Framework for Network Telemetry
+
 ### 20231109
 * Knowledge Enhanced Graph Neural Networks for Explainable Recommendation
 * SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications
