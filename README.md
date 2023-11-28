@@ -3,6 +3,13 @@
 
 ## 往期记录：
 
+### 20231122
+* A Millimeter Wave Backscatter Network for Two-Way Communication and Localization
+* Location Sensing and Beamforming Design for IRS-Enabled Multi-User ISAC Systems
+* BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents
+* CO-PILOT: Dynamic Top-Down Point Cloud with Conditional Neighborhood Aggregation for Multi-Gigapixel Histopathology Image Representation
+* FEAT: Towards Fast Environment-Adaptive Task Offloading and Power Allocation in MEC
+
 ### 20231115
 * Searching the Deployable Convolution Neural Networks for GPUs
 * Causal Inference with Non-IID Data using Linear Graphical Models
