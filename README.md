@@ -3,6 +3,18 @@
 
 ## 往期记录：
 
+
+### 20231227
+* Location Privacy-Aware Task Offloading in Mobile Edge Computing
+* FedALA: Adaptive Local Aggregation for Personalized Federated Learning
+* IMAGEBIND: One Embedding Space To Bind Them All
+* Green, Quantized Federated Learning over Wireless Networks: An Energy-Efficient Design
+* 
+### 20231213
+* Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition
+* Towards Fine-Grained Reasoning for Fake News Detection
+* Generating multivariate time series with Common Source CoordInated GAN
+
 ### 20231122
 * A Millimeter Wave Backscatter Network for Two-Way Communication and Localization
 * Location Sensing and Beamforming Design for IRS-Enabled Multi-User ISAC Systems
