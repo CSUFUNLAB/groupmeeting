@@ -9,7 +9,7 @@
 * FedALA: Adaptive Local Aggregation for Personalized Federated Learning
 * IMAGEBIND: One Embedding Space To Bind Them All
 * Green, Quantized Federated Learning over Wireless Networks: An Energy-Efficient Design
-* 
+
 ### 20231213
 * Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition
 * Towards Fine-Grained Reasoning for Fake News Detection
