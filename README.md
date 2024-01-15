@@ -4,6 +4,12 @@
 ## 往期记录：
 
 
+### 20240110
+* Health Condition Assessment for Pumped Storage Units Using Multihead Self-Attentive Mechanism and Improved Radar Chart
+* Burst-Aware Time-Triggered Flow Scheduling With Enhanced Multi-CQF in Time-Sensitive Networks
+* FedGCN: Convergence-Communication Tradeoffs in Federated Training of Graph Convolutional Networks
+* Subgraph Federated Learning with Missing Neighbor Generation
+
 ### 20231227
 * Location Privacy-Aware Task Offloading in Mobile Edge Computing
 * FedALA: Adaptive Local Aggregation for Personalized Federated Learning
