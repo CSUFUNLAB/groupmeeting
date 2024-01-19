@@ -3,6 +3,10 @@
 
 ## 往期记录：
 
+### 20240119
+* HTNet Dynamic WLAN Performance Prediction using Heterogenous Temporal GNN
+* IMAGEBIND One Embedding Space To Bind Them All
+* Multi-Agent Distributed Reinforcement Learning for Making Decentralized Offloading Decisions
 
 ### 20240110
 * Health Condition Assessment for Pumped Storage Units Using Multihead Self-Attentive Mechanism and Improved Radar Chart
