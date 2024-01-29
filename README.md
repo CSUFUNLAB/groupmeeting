@@ -3,6 +3,12 @@
 
 ## 往期记录：
 
+### 20240124
+* AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments
+* Hybrid Semantics for Goal-Directed Natural Language Generation
+* CausIL Causal Graph for Instance Level Microservice Data
+* Resilient Routing Table Computation Based on Connectivity Preserving Graph Sequences
+
 ### 20240119
 * HTNet Dynamic WLAN Performance Prediction using Heterogenous Temporal GNN
 * IMAGEBIND One Embedding Space To Bind Them All
