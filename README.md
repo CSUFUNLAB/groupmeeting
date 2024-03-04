@@ -3,6 +3,18 @@
 
 ## 往期记录：
 
+### 20240228
+* Performance Analysis and Power Allocation for Covert Mobile Edge Computing With RIS-Aided NOMA
+* Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning
+* FACTKG: Fact Verification via Reasoning on Knowledge Graphs
+* MUSER: A MUlti-Step Evidence Retrieval Enhancement Framework for Fake News Detection
+
+### 20240221
+* ChameleMon: Shifting Measurement Attention as Network State Changes
+* Murphy: Performance Diagnosis of Distributed Cloud Applications
+* Detection of Basal Cell Carcinoma in Whole Slide Images
+* On the Effective Capacity of RIS-enabled mmWave Networks with Outdated CSI
+
 ### 20240124
 * AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments
 * Hybrid Semantics for Goal-Directed Natural Language Generation
