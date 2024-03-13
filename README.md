@@ -3,6 +3,12 @@
 
 ## 往期记录：
 
+### 20240313
+* Are Transformers Effective for Time Series Forecasting?
+* Few-Shot Defect Image Generation via Defect-Aware Feature Manipulation
+* A TIME SERIES IS WORTH 64 WORDS long-term forecasting with transformer
+* Interdependent Causal Networks for Root Cause Localization
+
 ### 20240228
 * Performance Analysis and Power Allocation for Covert Mobile Edge Computing With RIS-Aided NOMA
 * Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning
