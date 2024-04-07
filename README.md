@@ -3,6 +3,18 @@
 
 ## 往期记录：
 
+### 20240403
+* Scale-Aware Modulation Meet Transformer
+* DIFFUSION-TS: INTERPRETABLE DIFFUSION FOR GENERAL TIME SERIES GENERATION
+* Time-LLM Time Series Forecasting by Reprogramming Large Language Models
+* Imperfect CSI Based Intelligent Dynamic Spectrum Management Using Cooperative Reinforcement Learning Framework in Cognitive Radio Networks
+
+### 20240321
+* EdgePC: Efficient Deep Learning Analytics for Point Clouds on Edge Devices
+* High-Resolution Image Synthesis with Latent Diffusion Model 
+* PATHFORMER: MULTI-SCALE TRANSFORMERS WITH ADAPTIVE PATHWAYS FOR TIME SERIES FORECASTING
+* Task-specific Fine-tuning via Variational Information Bottleneck for Weakly-supervised Pathology Whole Slide Image Classification
+
 ### 20240313
 * Are Transformers Effective for Time Series Forecasting?
 * Few-Shot Defect Image Generation via Defect-Aware Feature Manipulation
