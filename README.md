@@ -3,6 +3,11 @@
 
 ## 往期记录：
 
+### 20240410
+* Multi-Agent Deep Reinforcement Learning Based UAV Trajectory Optimization for Differentiated Services
+* Automatic Root Cause Analysis via Large Language Models for Cloud Incidents
+* Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks
+
 ### 20240403
 * Scale-Aware Modulation Meet Transformer
 * DIFFUSION-TS: INTERPRETABLE DIFFUSION FOR GENERAL TIME SERIES GENERATION
