@@ -3,6 +3,17 @@
 
 ## 往期记录：
 
+### 20240508
+* Improving Representation Learning for Histopathologic Images with Cluster Constraints
+* Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios
+* Fast Generation-Based Gradient Leakage Attacks against Highly Compressed Gradients
+* Rethinking Causal Relationships Learning in Graph Neural Networks
+
+### 20240424
+* Incremental Causal Graph Learning for Online Root Cause Analysis
+* METAGPT: Meta Programming For A Multi-Agent Collaborative Framework
+* Network-Centric Distributed Tracing with DeepFlow: Troubleshooting Your Microservices in Zero Code
+
 ### 20240410
 * Multi-Agent Deep Reinforcement Learning Based UAV Trajectory Optimization for Differentiated Services
 * Automatic Root Cause Analysis via Large Language Models for Cloud Incidents
