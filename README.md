@@ -3,6 +3,12 @@
 
 ## 往期记录：
 
+### 20240522
+* Knowledge Graph Prompting for Multi-Document Question Answering
+* Skyplane Optimizing Transfer Cost and Throughput Using Cloud-Aware Overlays
+* A Causality Inspired Framework for Model Interpretation
+* Digital Twin-Enabled Service Satisfaction Enhancement in Edge Computing
+
 ### 20240508
 * Improving Representation Learning for Histopathologic Images with Cluster Constraints
 * Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios
