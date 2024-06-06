@@ -3,6 +3,17 @@
 
 ## 往期记录：
 
+### 20240605
+* Seer: Enabling Future-Aware Online Caching in Networked Systems
+* NN-Defined Modulator Reconfigurable and Portable Software Modulator on IoT Gateways
+* ChartReader: A Unified Framework for Chart Derendering and Comprehension without Heuristic Rules
+
+### 20240529
+* Self-RAG: Learning to Retrieve, generate, and Critique Through self-Reflection
+* SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks
+* Flexible Rate-Splitting Multiple Access With Finite Blocklength
+* Understanding Experssivity of GNN in Rule Learning
+
 ### 20240522
 * Knowledge Graph Prompting for Multi-Document Question Answering
 * Skyplane Optimizing Transfer Cost and Throughput Using Cloud-Aware Overlays
