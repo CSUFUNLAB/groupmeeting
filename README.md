@@ -13,7 +13,7 @@
 * DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems
 * MonitorAssistant : Simplifying Cloud Service Monitoring via Large Language Models
 * Faithful Logical Reasoning via Symbolic Chain-of-Thought
-* Can GNN be Good Adapter for LLMs?
+* Entity Divider with Language Grounding in Multi-Agent Reinforcement Learning
 
 ### 20240605
 * Seer: Enabling Future-Aware Online Caching in Networked Systems
