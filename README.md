@@ -3,6 +3,18 @@
 
 ## 往期记录：
 
+### 20240619
+* Revisiting VAE for Unsupervised Time Series Anomaly Detection A Frequency Perspective
+* Root Cause Analysis In Microservice Using Neural Granger Causal Discovery
+* Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory
+* Can GNN be Good Adapter for LLMs
+
+### 20240612
+* DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems
+* MonitorAssistant : Simplifying Cloud Service Monitoring via Large Language Models
+* Faithful Logical Reasoning via Symbolic Chain-of-Thought
+* Can GNN be Good Adapter for LLMs?
+
 ### 20240605
 * Seer: Enabling Future-Aware Online Caching in Networked Systems
 * NN-Defined Modulator Reconfigurable and Portable Software Modulator on IoT Gateways
