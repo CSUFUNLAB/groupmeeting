@@ -8,6 +8,11 @@
 * Tomography-based progressive network recovery and critical service restoration after massive failures
 * ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models
 
+### 20241023
+* Cloud-Device Collaborative Learning for Multimodal Large Language Models
+* LogParser-LLM Advancing Efficient Log Parsing with Large Language Models
+* Online Resource Allocation for Edge Intelligence  with Colocated Model Retraining and Inference
+
 ### 20240619
 * Revisiting VAE for Unsupervised Time Series Anomaly Detection A Frequency Perspective
 * Root Cause Analysis In Microservice Using Neural Granger Causal Discovery
