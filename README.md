@@ -3,6 +3,11 @@
 
 ## 往期记录：
 
+### 20241114
+* Inference Scaling Laws: An Empirical Analysis Of Compute-Optimal Inference For LLM Problem-Solving
+* Tomography-based progressive network recovery and critical service restoration after massive failures
+* ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models
+
 ### 20240619
 * Revisiting VAE for Unsupervised Time Series Anomaly Detection A Frequency Perspective
 * Root Cause Analysis In Microservice Using Neural Granger Causal Discovery
