@@ -24,6 +24,23 @@
 * LogParser-LLM Advancing Efficient Log Parsing with Large Language Models
 * Online Resource Allocation for Edge Intelligence  with Colocated Model Retraining and Inference
 
+### 20241009
+* Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization
+* Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action
+* Multi-Granularity Causal Structure Learning
+* Softly, Deftly, Scrolls Unfurl Their Splendor: Rolling Flexible Surfaces for Wideband Wireless
+
+### 20240925
+* InNetScheduler: In-network scheduling for time-and event-triggered critical traffic in TSN
+* NEXT-GPT: Any-to-Any Multimodal LLM
+* Harnessing Explanations: LLM-TO-LM Interpreter For Enhanced Text-Attributed Gragh Representation Learning
+
+### 20240918
+* RealTCD: Temporal Causal Discovery from Interventional Data with Large Language Model
+* Jewel: Resource-Efficient Joint Packet and Flow Level Inference in Programmable Switches
+* An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation
+* TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network
+
 ### 20240619
 * Revisiting VAE for Unsupervised Time Series Anomaly Detection A Frequency Perspective
 * Root Cause Analysis In Microservice Using Neural Granger Causal Discovery
