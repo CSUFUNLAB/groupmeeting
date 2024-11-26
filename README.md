@@ -3,10 +3,21 @@
 
 ## 往期记录：
 
+### 20241120
+* Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission
+* Electrode: Accelerating Distributed Protocols with eBPF
+* Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning
+* Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach
+
 ### 20241114
 * Inference Scaling Laws: An Empirical Analysis Of Compute-Optimal Inference For LLM Problem-Solving
 * Tomography-based progressive network recovery and critical service restoration after massive failures
 * ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models
+
+### 20241030
+* GPT4MTS  Prompt-Based Large Language Model for Multimodal Time-Series
+* Generating Images with Multimodal Language Models
+* D-Bot: Database Diagnosis System using Large Language Models
 
 ### 20241023
 * Cloud-Device Collaborative Learning for Multimodal Large Language Models
