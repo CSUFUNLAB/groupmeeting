@@ -41,6 +41,19 @@
 * An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation
 * TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network
 
+### 20240911
+* Timesnet: Temporal 2D-Variation Modeling For General Time Series Analysis
+* Joint Computation Offloading and Resource Allocation in Multi-edge Smart Communities with Personalized Federated Deep Reinforcement Learning
+* Multi-Behavior Recommendation with Cascading Graph Convolution Networks
+
+### 20240904
+* SAME Uncovering GNN Black Box with Structure-aware Shapley-based Multipiece Explanation
+
+### 20240731
+* FALCON: Towards Fast and Scalable Data Delivery for Emerging Earth Observation Constellations
+* THINK-ON-GRAPH: Deep and Responsible Reasoning Of Large Language Model On Knowledge Graph
+* Critic-Guided Decision Transformer for Offine Reinforcement Learning
+
 ### 20240619
 * Revisiting VAE for Unsupervised Time Series Anomaly Detection A Frequency Perspective
 * Root Cause Analysis In Microservice Using Neural Granger Causal Discovery
