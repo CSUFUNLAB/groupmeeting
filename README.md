@@ -54,6 +54,11 @@
 * THINK-ON-GRAPH: Deep and Responsible Reasoning Of Large Language Model On Knowledge Graph
 * Critic-Guided Decision Transformer for Offine Reinforcement Learning
 
+### 20240710
+* GEOLLM: Extracting Geospatial Knowledge From Large Language Models
+* Causal Recurrent Variational Autoencoder for Medical Time Series Generation
+* DONS: Fast and Affordable Discrete Event Network Simulation with Automatic Parallelization
+
 ### 20240619
 * Revisiting VAE for Unsupervised Time Series Anomaly Detection A Frequency Perspective
 * Root Cause Analysis In Microservice Using Neural Granger Causal Discovery
