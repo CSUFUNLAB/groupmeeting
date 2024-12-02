@@ -64,6 +64,12 @@
 * Causal Recurrent Variational Autoencoder for Medical Time Series Generation
 * DONS: Fast and Affordable Discrete Event Network Simulation with Automatic Parallelization
 
+### 20240626
+* Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation
+* Graph of Thoughts Solving Elaborate Problems with Large Language Models
+* Supervised Fine-Tuning for Unsupervised KPI Anomaly Detection for Mobile Web Systems
+* Chroma: Learning and Using Network Contexts to Reinforce Performance Improving Configurations
+
 ### 20240619
 * Revisiting VAE for Unsupervised Time Series Anomaly Detection A Frequency Perspective
 * Root Cause Analysis In Microservice Using Neural Granger Causal Discovery
