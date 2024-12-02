@@ -59,6 +59,12 @@
 * THINK-ON-GRAPH: Deep and Responsible Reasoning Of Large Language Model On Knowledge Graph
 * Critic-Guided Decision Transformer for Offine Reinforcement Learning
 
+### 20240724
+* Towards Resource-Efficient Edge AI From Federated Learning to Semi-Supervised Model Personalization
+* Mitigating Large Language Model  Hallucinations via Autonomous Knowledge Graph-Based Retrofitting
+* Graph Neural Prompting with Large Language Models
+* Scheduling Stochastic Traffic With End-to-End Deadlines in Multi-hop Wireless Networks
+
 ### 20240710
 * GEOLLM: Extracting Geospatial Knowledge From Large Language Models
 * Causal Recurrent Variational Autoencoder for Medical Time Series Generation
