@@ -3,6 +3,11 @@
 
 ## 往期记录：
 
+### 20241204
+* EcomGPT: Instruction-Tuning Large Language Models with Chain-of-Task Tasks for E-commerce
+* CHATEVAL: towards better LLM-based evaluators through multi-agent debate
+* DDR A Deadline-Driven Routing Protocol for Delay Guaranteed Service
+
 ### 20241127
 * NetLLM Adapting Large Language Models for Networking
 * R-Pingmesh A Service-Aware RoCE Network Monitoring and Diagnostic System
