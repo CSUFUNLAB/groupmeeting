@@ -8,7 +8,6 @@
 * Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks
 * Exploring ChatGPT’s Capabilities on Vulnerability Management
 
-
 ### 20241218
 * Question Aware Vision Transformer for Multimodal Reasoning
 * Evolutionary Multi-Objective Reinforcement Learning Based Trajectory Control and Task Offloading in UAV-AssistedMobile Edge Computing
