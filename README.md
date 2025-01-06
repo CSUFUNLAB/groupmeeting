@@ -3,6 +3,18 @@
 
 ## 往期记录：
 
+### 20241226
+* GPT4Point A Unified Framework for Point-Language Understanding and Generation
+* Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks
+* Exploring ChatGPT’s Capabilities on Vulnerability Management
+
+
+### 20241218
+* Question Aware Vision Transformer for Multimodal Reasoning
+* Evolutionary Multi-Objective Reinforcement Learning Based Trajectory Control and Task Offloading in UAV-AssistedMobile Edge Computing
+* DRAGIN: Dynamic Retrieval Augmented Generation based on the Information Needs of Large Language Models
+* m3 Accurate Flow-Level Performance Estimation using Machine Learning
+
 ### 20241204
 * EcomGPT: Instruction-Tuning Large Language Models with Chain-of-Task Tasks for E-commerce
 * CHATEVAL: towards better LLM-based evaluators through multi-agent debate
