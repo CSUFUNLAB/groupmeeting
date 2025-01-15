@@ -3,6 +3,12 @@
 
 ## 往期记录：
 
+### 20250108
+* Multi-UAV Reinforcement Learning for Data Collection in Cellular MIMO Networks
+* ModernTCN：A Modern Pure Convolution Structure for General Time Series Analysis
+* ExpeL LLM Agents Are Experiential  Learners
+* Chain-of-Event Interpretable Root Cause Analysis for Microservices through Automatically Learning Weighted Event Causal Graph
+
 ### 20241226
 * GPT4Point A Unified Framework for Point-Language Understanding and Generation
 * Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks
